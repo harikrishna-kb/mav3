@@ -10,3 +10,4 @@ public class AppTest {
         assertEquals("S grade", app.mark(90));
     }
 }
+
